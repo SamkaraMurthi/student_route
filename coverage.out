@@ -1,0 +1,20 @@
+mode: set
+student-api/main.go:21.19,32.2 7 1
+student-api/main.go:35.40,37.2 1 1
+student-api/main.go:40.39,42.35 2 1
+student-api/main.go:42.35,43.23 1 1
+student-api/main.go:43.23,45.4 1 1
+student-api/main.go:47.2,47.40 1 0
+student-api/main.go:51.42,53.40 2 1
+student-api/main.go:53.40,55.3 1 0
+student-api/main.go:56.2,57.44 2 1
+student-api/main.go:61.42,63.26 2 1
+student-api/main.go:63.26,64.27 1 1
+student-api/main.go:64.27,66.49 2 1
+student-api/main.go:66.49,68.5 1 0
+student-api/main.go:70.4,74.45 4 1
+student-api/main.go:78.2,78.57 1 0
+student-api/main.go:82.42,84.26 2 1
+student-api/main.go:84.26,85.27 1 1
+student-api/main.go:85.27,88.4 2 1
+student-api/main.go:90.2,90.57 1 0
